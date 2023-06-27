@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PubQuiz", "PubQuiz\PubQuiz.csproj", "{14BF4C15-2A3F-4DD3-905E-0B34D865449B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{14BF4C15-2A3F-4DD3-905E-0B34D865449B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14BF4C15-2A3F-4DD3-905E-0B34D865449B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14BF4C15-2A3F-4DD3-905E-0B34D865449B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14BF4C15-2A3F-4DD3-905E-0B34D865449B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {03F1335A-F31D-47C8-B875-5B1D30327FC7}
+	EndGlobalSection
+EndGlobal

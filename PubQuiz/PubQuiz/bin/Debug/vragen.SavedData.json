@@ -1,0 +1,52 @@
+[
+  {
+    "quizid": 3,
+    "Tijd": 10,
+    "Foto": "",
+    "Vragen": "Wat is Max",
+    "GoedeAntwoord": "Max is de beste",
+    "Fouteantwoordeen": "Max is de slechste",
+    "Fouteantwoordtwee": "Max is de goedste",
+    "Fouteantwoorddrie": "Max is de "
+  },
+  {
+    "quizid": 3,
+    "Tijd": 10,
+    "Foto": "",
+    "Vragen": "Antwoord A",
+    "GoedeAntwoord": "A",
+    "Fouteantwoordeen": "w",
+    "Fouteantwoordtwee": "w",
+    "Fouteantwoorddrie": "w"
+  },
+  {
+    "quizid": 4,
+    "Tijd": 5,
+    "Foto": "C:\\Users\\Max\\Documents\\ROC Midden Nederland\\Level 8\\quiztime\\quiztime gtihub\\quiztime\\PubQuiz\\PubQuiz\\bin\\Debug\\Fotos\\Avatar shifu.png",
+    "Vragen": "antwoord 1",
+    "GoedeAntwoord": "1",
+    "Fouteantwoordeen": "2",
+    "Fouteantwoordtwee": "3",
+    "Fouteantwoorddrie": "4"
+  },
+  {
+    "quizid": 5,
+    "Tijd": 10,
+    "Foto": "C:\\Users\\Max\\Documents\\ROC Midden Nederland\\Level 8\\quiztime\\quiztime gtihub\\quiztime\\PubQuiz\\PubQuiz\\bin\\Debug\\Fotos\\cv foto.jpg",
+    "Vragen": "Is Max de Beste",
+    "GoedeAntwoord": "Ja",
+    "Fouteantwoordeen": "nee",
+    "Fouteantwoordtwee": "nee",
+    "Fouteantwoorddrie": "nee"
+  },
+  {
+    "quizid": 5,
+    "Tijd": 10,
+    "Foto": "C:\\Users\\Max\\Documents\\ROC Midden Nederland\\Level 8\\quiztime\\quiztime gtihub\\quiztime\\PubQuiz\\PubQuiz\\bin\\Debug\\Fotos\\Avatar shifu.png",
+    "Vragen": "Moet Max zijn quiztime op voldaan",
+    "GoedeAntwoord": "Ja",
+    "Fouteantwoordeen": "nee",
+    "Fouteantwoordtwee": "nee",
+    "Fouteantwoorddrie": "nee"
+  }
+]

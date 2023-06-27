@@ -1,0 +1,59 @@
+C:\Users\orang\source\repos\PubQuiz\PubQuiz\bin\Debug\PubQuiz.exe.config
+C:\Users\orang\source\repos\PubQuiz\PubQuiz\bin\Debug\PubQuiz.exe
+C:\Users\orang\source\repos\PubQuiz\PubQuiz\bin\Debug\PubQuiz.pdb
+C:\Users\orang\source\repos\PubQuiz\PubQuiz\obj\Debug\PubQuiz.csproj.AssemblyReference.cache
+C:\Users\orang\source\repos\PubQuiz\PubQuiz\obj\Debug\PubQuiz.csproj.SuggestedBindingRedirects.cache
+C:\Users\orang\source\repos\PubQuiz\PubQuiz\obj\Debug\MainWindow.g.cs
+C:\Users\orang\source\repos\PubQuiz\PubQuiz\obj\Debug\App.g.cs
+C:\Users\orang\source\repos\PubQuiz\PubQuiz\obj\Debug\PubQuiz_MarkupCompile.cache
+C:\Users\orang\source\repos\PubQuiz\PubQuiz\obj\Debug\PubQuiz_MarkupCompile.lref
+C:\Users\orang\source\repos\PubQuiz\PubQuiz\obj\Debug\MainWindow.baml
+C:\Users\orang\source\repos\PubQuiz\PubQuiz\obj\Debug\PubQuiz.g.resources
+C:\Users\orang\source\repos\PubQuiz\PubQuiz\obj\Debug\PubQuiz.Properties.Resources.resources
+C:\Users\orang\source\repos\PubQuiz\PubQuiz\obj\Debug\PubQuiz.csproj.GenerateResource.cache
+C:\Users\orang\source\repos\PubQuiz\PubQuiz\obj\Debug\PubQuiz.csproj.CoreCompileInputs.cache
+C:\Users\orang\source\repos\PubQuiz\PubQuiz\obj\Debug\PubQuiz.exe
+C:\Users\orang\source\repos\PubQuiz\PubQuiz\obj\Debug\PubQuiz.pdb
+C:\Users\orang\source\repos\PubQuiz\PubQuiz\obj\Debug\adminPanel.g.cs
+C:\Users\orang\source\repos\PubQuiz\PubQuiz\bin\Debug\M.Core.Application.ControlHelpers.dll
+C:\Users\orang\source\repos\PubQuiz\PubQuiz\bin\Debug\M.Core.Application.WPF.MessageBox.dll
+C:\Users\orang\source\repos\PubQuiz\PubQuiz\bin\Debug\M.NetStandard.CommonInterfaces.dll
+C:\Users\orang\source\repos\PubQuiz\PubQuiz\bin\Debug\Newtonsoft.Json.dll
+C:\Users\orang\source\repos\PubQuiz\PubQuiz\bin\Debug\Serilog.dll
+C:\Users\orang\source\repos\PubQuiz\PubQuiz\bin\Debug\M.Core.Application.ControlHelpers.pdb
+C:\Users\orang\source\repos\PubQuiz\PubQuiz\bin\Debug\M.Core.Application.ControlHelpers.xml
+C:\Users\orang\source\repos\PubQuiz\PubQuiz\bin\Debug\M.Core.Application.WPF.MessageBox.pdb
+C:\Users\orang\source\repos\PubQuiz\PubQuiz\bin\Debug\M.NetStandard.CommonInterfaces.pdb
+C:\Users\orang\source\repos\PubQuiz\PubQuiz\bin\Debug\M.NetStandard.CommonInterfaces.xml
+C:\Users\orang\source\repos\PubQuiz\PubQuiz\bin\Debug\Newtonsoft.Json.xml
+C:\Users\orang\source\repos\PubQuiz\PubQuiz\bin\Debug\Serilog.xml
+C:\Users\orang\source\repos\PubQuiz\PubQuiz\obj\Debug\adminPanel.baml
+C:\Users\orang\source\repos\PubQuiz\PubQuiz\obj\Debug\PubQuiz.csproj.CopyComplete
+C:\Users\Max\Documents\ROC Midden Nederland\Level 8\quiztime\quiztime gtihub\quiztime\PubQuiz\PubQuiz\bin\Debug\PubQuiz.exe.config
+C:\Users\Max\Documents\ROC Midden Nederland\Level 8\quiztime\quiztime gtihub\quiztime\PubQuiz\PubQuiz\bin\Debug\PubQuiz.exe
+C:\Users\Max\Documents\ROC Midden Nederland\Level 8\quiztime\quiztime gtihub\quiztime\PubQuiz\PubQuiz\bin\Debug\PubQuiz.pdb
+C:\Users\Max\Documents\ROC Midden Nederland\Level 8\quiztime\quiztime gtihub\quiztime\PubQuiz\PubQuiz\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Max\Documents\ROC Midden Nederland\Level 8\quiztime\quiztime gtihub\quiztime\PubQuiz\PubQuiz\bin\Debug\Serilog.dll
+C:\Users\Max\Documents\ROC Midden Nederland\Level 8\quiztime\quiztime gtihub\quiztime\PubQuiz\PubQuiz\bin\Debug\M.Core.Application.ControlHelpers.pdb
+C:\Users\Max\Documents\ROC Midden Nederland\Level 8\quiztime\quiztime gtihub\quiztime\PubQuiz\PubQuiz\bin\Debug\M.Core.Application.ControlHelpers.xml
+C:\Users\Max\Documents\ROC Midden Nederland\Level 8\quiztime\quiztime gtihub\quiztime\PubQuiz\PubQuiz\bin\Debug\M.Core.Application.WPF.MessageBox.pdb
+C:\Users\Max\Documents\ROC Midden Nederland\Level 8\quiztime\quiztime gtihub\quiztime\PubQuiz\PubQuiz\bin\Debug\M.NetStandard.CommonInterfaces.pdb
+C:\Users\Max\Documents\ROC Midden Nederland\Level 8\quiztime\quiztime gtihub\quiztime\PubQuiz\PubQuiz\bin\Debug\M.NetStandard.CommonInterfaces.xml
+C:\Users\Max\Documents\ROC Midden Nederland\Level 8\quiztime\quiztime gtihub\quiztime\PubQuiz\PubQuiz\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Max\Documents\ROC Midden Nederland\Level 8\quiztime\quiztime gtihub\quiztime\PubQuiz\PubQuiz\bin\Debug\Serilog.xml
+C:\Users\Max\Documents\ROC Midden Nederland\Level 8\quiztime\quiztime gtihub\quiztime\PubQuiz\PubQuiz\obj\Debug\PubQuiz.csproj.AssemblyReference.cache
+C:\Users\Max\Documents\ROC Midden Nederland\Level 8\quiztime\quiztime gtihub\quiztime\PubQuiz\PubQuiz\obj\Debug\PubQuiz.csproj.SuggestedBindingRedirects.cache
+C:\Users\Max\Documents\ROC Midden Nederland\Level 8\quiztime\quiztime gtihub\quiztime\PubQuiz\PubQuiz\obj\Debug\adminPanel.g.cs
+C:\Users\Max\Documents\ROC Midden Nederland\Level 8\quiztime\quiztime gtihub\quiztime\PubQuiz\PubQuiz\obj\Debug\MainWindow.g.cs
+C:\Users\Max\Documents\ROC Midden Nederland\Level 8\quiztime\quiztime gtihub\quiztime\PubQuiz\PubQuiz\obj\Debug\App.g.cs
+C:\Users\Max\Documents\ROC Midden Nederland\Level 8\quiztime\quiztime gtihub\quiztime\PubQuiz\PubQuiz\obj\Debug\PubQuiz_MarkupCompile.cache
+C:\Users\Max\Documents\ROC Midden Nederland\Level 8\quiztime\quiztime gtihub\quiztime\PubQuiz\PubQuiz\obj\Debug\PubQuiz_MarkupCompile.lref
+C:\Users\Max\Documents\ROC Midden Nederland\Level 8\quiztime\quiztime gtihub\quiztime\PubQuiz\PubQuiz\obj\Debug\adminPanel.baml
+C:\Users\Max\Documents\ROC Midden Nederland\Level 8\quiztime\quiztime gtihub\quiztime\PubQuiz\PubQuiz\obj\Debug\MainWindow.baml
+C:\Users\Max\Documents\ROC Midden Nederland\Level 8\quiztime\quiztime gtihub\quiztime\PubQuiz\PubQuiz\obj\Debug\PubQuiz.g.resources
+C:\Users\Max\Documents\ROC Midden Nederland\Level 8\quiztime\quiztime gtihub\quiztime\PubQuiz\PubQuiz\obj\Debug\PubQuiz.Properties.Resources.resources
+C:\Users\Max\Documents\ROC Midden Nederland\Level 8\quiztime\quiztime gtihub\quiztime\PubQuiz\PubQuiz\obj\Debug\PubQuiz.csproj.GenerateResource.cache
+C:\Users\Max\Documents\ROC Midden Nederland\Level 8\quiztime\quiztime gtihub\quiztime\PubQuiz\PubQuiz\obj\Debug\PubQuiz.csproj.CoreCompileInputs.cache
+C:\Users\Max\Documents\ROC Midden Nederland\Level 8\quiztime\quiztime gtihub\quiztime\PubQuiz\PubQuiz\obj\Debug\PubQuiz.csproj.CopyComplete
+C:\Users\Max\Documents\ROC Midden Nederland\Level 8\quiztime\quiztime gtihub\quiztime\PubQuiz\PubQuiz\obj\Debug\PubQuiz.exe
+C:\Users\Max\Documents\ROC Midden Nederland\Level 8\quiztime\quiztime gtihub\quiztime\PubQuiz\PubQuiz\obj\Debug\PubQuiz.pdb
